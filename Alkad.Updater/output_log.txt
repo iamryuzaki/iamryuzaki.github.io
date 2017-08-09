@@ -1,0 +1,257 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     4062 MB
+    Driver:   22.21.13.8476
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.dll (this message is harmless)
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.Other.dll (this message is harmless)
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\ConvexHull.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\ConvexHull.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.CJK.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.CJK.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.MidEast.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.MidEast.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.Other.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.Other.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.Rare.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.Rare.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.West.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.West.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Ionic.Zip.Reduced.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\LZ4.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\LZ4.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\EasyAntiCheat.Client.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\EasyAntiCheat.Client.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\EasyAntiCheat.Server.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\EasyAntiCheat.Server.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Console.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Console.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Input.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Input.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Network.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Network.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Raknet.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Raknet.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Rcon.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Rcon.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.System.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.System.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.UnityEngine.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Rust.Data.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Rust.Data.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Rust.Global.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Rust.Global.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Rust.UI.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Rust.UI.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Rust.Workshop.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Rust.Workshop.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\websocket-sharp.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\websocket-sharp.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Steamworks.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Steamworks.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Unity.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Unity.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\ApexAI.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\ApexAI.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\ApexSerialization.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\ApexSerialization.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\ApexShared.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\ApexShared.dll into Unity Child Domain
+- Completed reload, in  0.111 seconds
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\System.Core.dll (this message is harmless)
+Shader 'Nature/Terrain/Diffuse': dependency 'AddPassShader' shader 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' not found
+Shader 'Hidden/TerrainEngine/Splatmap/Specular-AddPass': fallback shader 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' not found
+Shader 'Hidden/TerrainEngine/Splatmap/Standard-AddPass': fallback shader 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' not found
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.808956 ms
+Bootstart Startup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+System
+	Name: DESKTOP-GHRV80D
+	OS:   Windows 10  (10.0.0) 64bit
+
+CPU
+	Model:  Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz
+	Cores:  4
+	Memory: 16311 MB
+
+GPU
+	Model:  NVIDIA GeForce GTX 960
+	API:    Direct3D 11.0 [level 11.1]
+	Memory: 4062 MB
+	SM:     50
+
+Memory
+	GC.GetTotalMemory:     0 MB
+
+Mono
+	Collects: 8
+	Memory:   0 MB
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Facepunch.Steamworks Unity: WindowsPlayer
+Facepunch.Steamworks Os: Windows
+Facepunch.Steamworks Arch: x64
+Command Line: "RustClient.exe" "-eac" 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command 'eac' not found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamID: 76561198302965904 (TheRyuzaki [7.7k Sup])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Mono.Security.dll (this message is harmless)
+Loading Items Took: 2.0726665 seconds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Building Items Took: 2.0911239 seconds / Items: 329 / Blueprints: 217
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command 'eac' not found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Config Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EasyAntiCheat Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 3.614120 ms
+
+Unloading 139 unused Assets to reduce memory usage. Loaded Objects now: 5678.
+Total: 5.398507 ms (FindLiveObjects: 0.227034 ms CreateObjectMapping: 0.147162 ms MarkObjects: 4.908451 ms  DeleteObjects: 0.114980 ms)
+
+Wanted to show loading screen but not ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 1.033650 ms
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 19216.
+Total: 20.952715 ms (FindLiveObjects: 0.981865 ms CreateObjectMapping: 1.177302 ms MarkObjects: 18.205770 ms  DeleteObjects: 0.586896 ms)
+
+Couldn't get official servers (manifest missing)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Shader 'Particles/FXVille Blood World Lighting': fallback shader 'Paricles/Alpha Blended' not found
+Shader 'Particles/FXVille Blood World Lighting': fallback shader 'Paricles/Alpha Blended' not found
+Shader 'Effects/Explosions/Distortion/CullBack': fallback shader 'Effects/Distortion/Free/CullOff' not found
+Unloading 2 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 22.470276 ms
+[Water] Initializing, Mesh: 128000, Simulation: 64x64 (18x18)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 122388 unused Assets to reduce memory usage. Loaded Objects now: 173993.
+Total: 255.149963 ms (FindLiveObjects: 15.032845 ms CreateObjectMapping: 47.437347 ms MarkObjects: 123.714226 ms  DeleteObjects: 68.964378 ms)
+
+[0.6s] Procedural Generation
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Destroyed 1 map networkables
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got Respawn Information
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LocalPlayer.Entity.SecondsSinceDeath: 5101.501
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected (Timed Out) - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 45.846058 ms
+
+Unloading 318 unused Assets to reduce memory usage. Loaded Objects now: 175233.
+Total: 330.165863 ms (FindLiveObjects: 11.528732 ms CreateObjectMapping: 26.264914 ms MarkObjects: 119.266281 ms  DeleteObjects: 173.104477 ms)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: Steam Auth Failed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected (Steam Auth Failed) - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 14.495102 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 175229.
+Total: 218.781143 ms (FindLiveObjects: 11.234699 ms CreateObjectMapping: 26.704937 ms MarkObjects: 180.479889 ms  DeleteObjects: 0.360739 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2d14 -> priority: 1 
+  Thread -> id: 42c -> priority: 1 
+Steam Client Shutdown
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Releasing render texture that is set as Camera.targetTexture!
+ 
+(Filename:  Line: 3419)
+

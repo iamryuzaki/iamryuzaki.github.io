@@ -1,0 +1,564 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     4062 MB
+    Driver:   22.21.13.8476
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.dll (this message is harmless)
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.Other.dll (this message is harmless)
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\ConvexHull.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\ConvexHull.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.CJK.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.CJK.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.MidEast.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.MidEast.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.Other.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.Other.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.Rare.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.Rare.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.West.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\I18N.West.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Ionic.Zip.Reduced.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\LZ4.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\LZ4.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\EasyAntiCheat.Client.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\EasyAntiCheat.Client.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\EasyAntiCheat.Server.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\EasyAntiCheat.Server.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Console.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Console.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Input.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Input.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Network.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Network.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Raknet.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Raknet.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Rcon.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Rcon.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.System.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.System.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.UnityEngine.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Rust.Data.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Rust.Data.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Rust.Global.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Rust.Global.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Rust.UI.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Rust.UI.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Rust.Workshop.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Rust.Workshop.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\websocket-sharp.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\websocket-sharp.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Steamworks.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Steamworks.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Unity.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Facepunch.Unity.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\ApexAI.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\ApexAI.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\ApexSerialization.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\ApexSerialization.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\ApexShared.dll (this message is harmless)
+Loading D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\ApexShared.dll into Unity Child Domain
+- Completed reload, in  0.165 seconds
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\System.Core.dll (this message is harmless)
+Shader 'Nature/Terrain/Diffuse': dependency 'AddPassShader' shader 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' not found
+Shader 'Hidden/TerrainEngine/Splatmap/Specular-AddPass': fallback shader 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' not found
+Shader 'Hidden/TerrainEngine/Splatmap/Standard-AddPass': fallback shader 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' not found
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.841139 ms
+Bootstart Startup
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+System
+	Name: DESKTOP-GHRV80D
+	OS:   Windows 10  (10.0.0) 64bit
+
+CPU
+	Model:  Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz
+	Cores:  4
+	Memory: 16311 MB
+
+GPU
+	Model:  NVIDIA GeForce GTX 960
+	API:    Direct3D 11.0 [level 11.1]
+	Memory: 4062 MB
+	SM:     50
+
+Memory
+	GC.GetTotalMemory:     0 MB
+
+Mono
+	Collects: 8
+	Memory:   0 MB
+
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Facepunch.Steamworks Unity: WindowsPlayer
+Facepunch.Steamworks Os: Windows
+Facepunch.Steamworks Arch: x64
+Command Line: "RustClient.exe" "-eac" 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command 'eac' not found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SteamID: 76561198302965904 (TheRyuzaki [7.7k Sup])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: D:\Program Files (x86)\Steam\steamapps\common\Rust\RustClient_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Loading Items Took: 21.3384778 seconds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Building Items Took: 21.3730365 seconds / Items: 329 / Blueprints: 217
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Command 'eac' not found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Config Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EasyAntiCheat Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 4.007335 ms
+
+Unloading 139 unused Assets to reduce memory usage. Loaded Objects now: 5678.
+Total: 5.203947 ms (FindLiveObjects: 0.221183 ms CreateObjectMapping: 0.164717 ms MarkObjects: 4.747245 ms  DeleteObjects: 0.069924 ms)
+
+Wanted to show loading screen but not ready
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 1.039502 ms
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 19216.
+Total: 19.248491 ms (FindLiveObjects: 0.952608 ms CreateObjectMapping: 0.965774 ms MarkObjects: 16.746721 ms  DeleteObjects: 0.582214 ms)
+
+Couldn't get official servers (manifest missing)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: This virtual server is have connection!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected (This virtual server is have connection!) - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 0.953779 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 20043.
+Total: 20.890104 ms (FindLiveObjects: 0.967822 ms CreateObjectMapping: 0.727037 ms MarkObjects: 19.098110 ms  DeleteObjects: 0.096840 ms)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: Connection Attempt Failed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected (Connection Attempt Failed) - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 1.202171 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 20043.
+Total: 24.186493 ms (FindLiveObjects: 1.041842 ms CreateObjectMapping: 1.055593 ms MarkObjects: 22.051023 ms  DeleteObjects: 0.037156 ms)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: EAC: Banned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: Disconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected (Disconnected) - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 2.576959 ms
+
+Unloading 3279 unused Assets to reduce memory usage. Loaded Objects now: 35747.
+Total: 36.390480 ms (FindLiveObjects: 1.843192 ms CreateObjectMapping: 3.702477 ms MarkObjects: 27.863518 ms  DeleteObjects: 2.980413 ms)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: Connection Attempt Failed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected (Connection Attempt Failed) - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 2.321545 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 35746.
+Total: 38.338997 ms (FindLiveObjects: 1.893807 ms CreateObjectMapping: 3.392059 ms MarkObjects: 32.930542 ms  DeleteObjects: 0.121416 ms)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: EAC: Banned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: Disconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected (Disconnected) - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 2.401416 ms
+
+Unloading 743 unused Assets to reduce memory usage. Loaded Objects now: 37616.
+Total: 33.890465 ms (FindLiveObjects: 1.815398 ms CreateObjectMapping: 3.471346 ms MarkObjects: 28.269896 ms  DeleteObjects: 0.333237 ms)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 2.626696 ms
+[Water] Initializing, Mesh: 128000, Simulation: 64x64 (18x18)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 298 unused Assets to reduce memory usage. Loaded Objects now: 39453.
+Total: 57.957882 ms (FindLiveObjects: 1.879471 ms CreateObjectMapping: 2.976317 ms MarkObjects: 49.888210 ms  DeleteObjects: 3.212714 ms)
+
+Disconnect Reason: EAC: Banned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[0.7s] Procedural Generation
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Destroyed 1 map networkables
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected (disconnect) - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 10.434812 ms
+
+Unloading 611 unused Assets to reduce memory usage. Loaded Objects now: 38917.
+Total: 70.542793 ms (FindLiveObjects: 2.418093 ms CreateObjectMapping: 3.415173 ms MarkObjects: 31.522400 ms  DeleteObjects: 33.186249 ms)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: You are banned from this server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected (disconnect) - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 2.826229 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 38913.
+Total: 36.047878 ms (FindLiveObjects: 1.943544 ms CreateObjectMapping: 2.702764 ms MarkObjects: 31.319653 ms  DeleteObjects: 0.081041 ms)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: You are banned from this server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected () - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 2.771518 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 38913.
+Total: 38.075684 ms (FindLiveObjects: 2.063498 ms CreateObjectMapping: 2.891764 ms MarkObjects: 33.046398 ms  DeleteObjects: 0.073142 ms)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: You are banned from this server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected () - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 2.745772 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 38913.
+Total: 36.386383 ms (FindLiveObjects: 1.970460 ms CreateObjectMapping: 2.789072 ms MarkObjects: 31.564825 ms  DeleteObjects: 0.061147 ms)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: Connection Attempt Failed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected (Connection Attempt Failed) - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 2.853145 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 38913.
+Total: 35.145008 ms (FindLiveObjects: 1.881519 ms CreateObjectMapping: 2.695450 ms MarkObjects: 30.516836 ms  DeleteObjects: 0.050614 ms)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 2.474266 ms
+[Water] Initializing, Mesh: 128000, Simulation: 64x64 (18x18)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 211 unused Assets to reduce memory usage. Loaded Objects now: 40263.
+Total: 57.864262 ms (FindLiveObjects: 2.069642 ms CreateObjectMapping: 3.331790 ms MarkObjects: 48.666142 ms  DeleteObjects: 3.795806 ms)
+
+[0.7s] Procedural Generation
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Destroyed 1 map networkables
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got Respawn Information
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LocalPlayer.Entity.SecondsSinceDeath: 3578.078
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: EAC: Banned
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: Disconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected (Disconnected) - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 16.878672 ms
+
+Unloading 8427 unused Assets to reduce memory usage. Loaded Objects now: 42778.
+Total: 80.947762 ms (FindLiveObjects: 2.669118 ms CreateObjectMapping: 4.448823 ms MarkObjects: 33.926159 ms  DeleteObjects: 39.902493 ms)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: You are banned from this server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: Disconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected (Disconnected) - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 2.749868 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 42774.
+Total: 43.097069 ms (FindLiveObjects: 2.232018 ms CreateObjectMapping: 3.563798 ms MarkObjects: 37.197094 ms  DeleteObjects: 0.102399 ms)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: You are banned from this server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: Disconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected (Disconnected) - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 2.849634 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 42774.
+Total: 43.530067 ms (FindLiveObjects: 2.347584 ms CreateObjectMapping: 4.104468 ms MarkObjects: 37.019501 ms  DeleteObjects: 0.056758 ms)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: You are banned from this server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: Disconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected (Disconnected) - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 2.750453 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 42774.
+Total: 42.450191 ms (FindLiveObjects: 2.288192 ms CreateObjectMapping: 3.721494 ms MarkObjects: 36.336647 ms  DeleteObjects: 0.102984 ms)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: You are banned from this server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: Disconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected (Disconnected) - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 2.406975 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 42774.
+Total: 38.785458 ms (FindLiveObjects: 2.020490 ms CreateObjectMapping: 3.238460 ms MarkObjects: 33.454533 ms  DeleteObjects: 0.070509 ms)
+
+Connecting..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnect Reason: You are banned from this server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Disconnected (You are banned from this server) - returning to main menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 64)
+UnloadTime: 2.997090 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 42774.
+Total: 40.307411 ms (FindLiveObjects: 2.086026 ms CreateObjectMapping: 4.305757 ms MarkObjects: 33.858574 ms  DeleteObjects: 0.055588 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3c4 -> priority: 1 
+  Thread -> id: 1d0 -> priority: 1 
+Steam Client Shutdown
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Releasing render texture that is set as Camera.targetTexture!
+ 
+(Filename:  Line: 3419)
+
