@@ -2,7 +2,7 @@
 6f59ca14584cce74477f995fe8c85277 *locales/ru.pak
 1c8abb068244cc24f03893e7f5e50837 *swiftshader/libEGL.dll
 8870d4844aedb46b8f4fa2d1b4e5f143 *swiftshader/libGLESv2.dll
-182401c60b637d8cea2e6dfbc2e6fd03 *Alkad.exe
+b4f8dcba35d0aab8c3b0119064b299e7 *Alkad.exe
 daeb35367ef9f84ff69905c613f1451b *cef.pak
 0cb644c3bfabdcd49729607416d46c2f *CefSharp.BrowserSubprocess.Core.dll
 60760290074ff9bf57dce23bea931fd3 *CefSharp.BrowserSubprocess.exe
@@ -22,13 +22,15 @@ c456a21feda5230e33c0e273c348853f *GameWer.Client.dll
 910de4d256ebe41106af6bbd5d375171 *libEGL.dll
 32be0acaf6b2c70ce21a76cbe8ef20e5 *libGLESv2.dll
 51014ed501fde761ddb4b763df687c13 *natives_blob.bin
-5afda7c7d4f7085e744c2e7599279db3 *Newtonsoft.Json.dll
+e1f41034e6894d9d23a6db2a6e5b0dfc *Newtonsoft.Json.dll
 eff5745378aac61263405b7f2e027224 *SapphireEngine.dll
 934905acb43e30ea7c7bedb2a651f2f4 *SapphireNetwork.dll
+f26f138d73325a930a59b9e79f1869e7 *SharpRaven.dll
 f858d7daa986b2ab3d007a6bdf2b2ef2 *snapshot_blob.bin
 f9f6a5f15acff34f2b370f529524cac5 *steamclient64.dll
 2a09ae29b5613645a4b30e9deea68042 *steam_api64.dll
 6ea2ef7311b482724a9b7b0bc0dd85c6 *steam_appid.txt
+82deb78891f430007e871a35ce28fac4 *System.Runtime.InteropServices.RuntimeInformation.dll
 472c7f9a329250b096ccc768335848d9 *tier0_s64.dll
 f5913651b5d0fc61302d0df06c890b4c *v8_context_snapshot.bin
 8da874e1fdb2852c1babf68f70b1ff31 *vstdlib_s.dll
