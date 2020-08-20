@@ -14,9 +14,11 @@
         <br>
         <input type="text" placeholder="merchantSiteId" id="merchantSiteId">
         <br>
+        <input type="text" placeholder="secretKey" id="secretKey">
+        <br>
         <button onclick="init()">Create My form</button>
         <br>
-        <button onclick="document.querySelector('#merchantSiteId').value = '206546';document.querySelector('#merchantId').value = '3519442750909825951';init()">Create Test form</button>
+        <button onclick="document.querySelector('#secretKey').value = 'AIJ3Fb8DnzVRu6Vmz1DsjMIWxnCi6OkkxJ0ZADykl4Y9zwZgPDf3NQ5wDsei1wLH';document.querySelector('#merchantSiteId').value = '206546';document.querySelector('#merchantId').value = '3519442750909825951';init()">Create Test form</button>
 
         <br>
         <br>
@@ -288,7 +290,7 @@
             "currency": "USD",
             "amount": "1",
             "timeStamp": window.timestamp,
-            "checksum": sha256("3519442750909825951" + "206546" + window.UserID + "1" + "USD" + window.timestamp + "AIJ3Fb8DnzVRu6Vmz1DsjMIWxnCi6OkkxJ0ZADykl4Y9zwZgPDf3NQ5wDsei1wLH")
+            "checksum": sha256("3519442750909825951" + "206546" + window.UserID + "1" + "USD" + window.timestamp + document.querySelector('#secretKey').value)
         }).then(res => {
             console.log(res.data)
             document.querySelector('#result').value = JSON.stringify(res.data, null, 4)
