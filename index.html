@@ -256,7 +256,7 @@
 <script>
 
     function main() {
-        window.sfc.createPayment({
+		const obj = {
             "clientUniqueId": window.UserID,
             "sessionToken": window.sessionToken,
             "currency": "USD",
@@ -267,7 +267,10 @@
                 "country": "GB",
                 "email": "someemail@somedomain.com"
             }
-        }, function (result) {
+        }
+		console.log(obj)
+		console.log(JSON.stringify(obj))
+        window.sfc.createPayment(obj, function (result) {
             document.querySelector('#result').value = JSON.stringify(result, null, 4)
         })
     }
