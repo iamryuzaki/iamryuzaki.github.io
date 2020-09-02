@@ -118,12 +118,12 @@
             formLine += (formLine.length == 0 ? '?' : '&') + key + "=" + form[key]
         }
 
-        axios.get('http://web-api-dev.theryuzaki.xyz/api/payment/init' + formLine).then(response => {
+        axios.get('https://web-api-dev.theryuzaki.xyz/api/payment/init' + formLine).then(response => {
             let lineRequest = ''
             for (const key in response.data.response) {
                 lineRequest += (lineRequest.length == 0 ? '#' : '&') + key + "=" + response.data.response[key]
             }
-            lineRequest += "&return=http://iamryuzaki.github.io/test.html"
+            lineRequest += "&return=https://iamryuzaki.github.io/test.html"
             lineRequest += "&bundle=" + bundles.filter(item => item.id == form['bundle'])[0].name
             location.href = 'https://iamryuzaki.github.io/index.html' + lineRequest
         })
