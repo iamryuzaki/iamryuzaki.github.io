@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="/assets/style/normalize.css">
+    <link rel="stylesheet" href="/assets/style/ui.css">
+    <link rel="stylesheet" href="/assets/style/game.css">
+    <script src="/assets/script/game.js"></script>
+</head>
+<body>
+    <div id="game-blog">
+        <div class="top-line">
+            <div class="progress-bar">
+                <div class="progress"></div>
+            </div>
+            <div class="close-button icon-button" onclick="GameClose()">
+                <div class="button">
+
+                </div>
+            </div>
+        </div>
+        <div class="game-wrapper">
+            <div class="game-scene">
+                <div class="enemy-blocks">
+                </div>
+                <div class="player-block">
+                    <div class="player-cart"></div>
+                </div>
+            </div>
+        </div>
+        <div class="bottom-line">
+            <div class="prev-button icon-button large-button" onclick="PrevButtonClick()">
+                <div class="button">
+
+                </div>
+            </div>
+            <div class="next-button icon-button large-button" onclick="NextButtonClick()">
+                <div class="button">
+
+                </div>
+            </div>
+        </div>
+        <div class="score-line">
+            <span class="current">12</span> / <span class="max">20</span>
+        </div>
+    </div>
+</body>
+</html>
