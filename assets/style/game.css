@@ -1,104 +1,170 @@
-#game-blog {
-    overflow: hidden;
+.game-icon {
+    width: 112px;
+    height: 112px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: 1s;
+    position: absolute;
 }
 
-#game-blog .game-wrapper {
-    padding: 24px;
-    width: calc(100% - 24px * 2);
-    height: calc(100% - 24px * 2);
+.game-icon.focus:after{
+    display: block;
+    content: '';
+    width: 99%;
+    height: 99%;
+    box-shadow: 0px 0px 4px 0px #04d9ff;
+    z-index: 1;
+    position: absolute;
 }
 
-#game-blog .game-wrapper .game-scene {
+.game-icon[data-icon_id="1"] {
+    background-image: url('../image/game/game-2-item-1.png');
+}
+
+.game-icon[data-icon_id="2"] {
+    background-image: url('../image/game/game-2-item-2.png');
+}
+
+.game-icon[data-icon_id="3"] {
+    background-image: url('../image/game/game-2-item-3.png');
+}
+
+.game-icon[data-icon_id="4"] {
+    background-image: url('../image/game/game-2-item-4.png');
+}
+
+.game-icon[data-icon_id="5"] {
+    background-image: url('../image/game/game-2-item-5.png');
+}
+
+.game-icon[data-icon_id="6"] {
+    background-image: url('../image/game/game-2-item-6.png');
+}
+
+.game-icon[data-icon_id="7"] {
+    background-image: url('../image/game/game-2-item-7.png');
+}
+
+.game-icon[data-icon_id="8"] {
+    background-image: url('../image/game/game-2-item-8.png');
+}
+
+.game-icon[data-icon_id="9"] {
+    background-image: url('../image/game/game-2-item-9.png');
+}
+
+.game-icon[data-icon_id="10"] {
+    background-image: url('../image/game/game-2-item-10.png');
+}
+
+.game-icon[data-icon_id="11"] {
+    background-image: url('../image/game/game-2-item-11.png');
+}
+
+.game-icon[data-icon_id="12"] {
+    background-image: url('../image/game/game-2-item-12.png');
+}
+
+.game-icon[data-icon_id="13"] {
+    background-image: url('../image/game/game-2-item-13.png');
+}
+
+.game-icon[data-icon_id="14"] {
+    background-image: url('../image/game/game-2-item-14.png');
+}
+
+.game-icon[data-icon_id="15"] {
+    background-image: url('../image/game/game-2-item-15.png');
+}
+
+.game-icon[data-pos_id="1"] {
+    top: 0px;
+    left: 0px;
+}
+
+.game-icon[data-pos_id="2"] {
+    top: 0px;
+    left: calc(112px * 1);
+}
+
+.game-icon[data-pos_id="3"] {
+    top: 0px;
+    left: calc(112px * 2);
+}
+
+.game-icon[data-pos_id="4"] {
+    top: 0px;
+    left: calc(112px * 3);
+}
+
+.game-icon[data-pos_id="5"] {
+    top: 0px;
+    left: calc(112px * 4);
+}
+
+.game-icon[data-pos_id="6"] {
+    top: calc(112px * 1);
+    left: 0px;
+}
+
+.game-icon[data-pos_id="7"] {
+    top: calc(112px * 1);
+    left: calc(112px * 1);
+}
+
+.game-icon[data-pos_id="8"] {
+    top: calc(112px * 1);
+    left: calc(112px * 2);
+}
+
+.game-icon[data-pos_id="9"] {
+    top: calc(112px * 1);
+    left: calc(112px * 3);
+}
+
+.game-icon[data-pos_id="10"] {
+    top: calc(112px * 1);
+    left: calc(112px * 4);
+}
+
+.game-icon[data-pos_id="11"] {
+    top: calc(112px * 2);
+    left: 0px;
+}
+
+.game-icon[data-pos_id="12"] {
+    top: calc(112px * 2);
+    left: calc(112px * 1);
+}
+
+.game-icon[data-pos_id="13"] {
+    top: calc(112px * 2);
+    left: calc(112px * 2);
+}
+
+.game-icon[data-pos_id="14"] {
+    top: calc(112px * 2);
+    left: calc(112px * 3);
+}
+
+.game-icon[data-pos_id="15"] {
+    top: calc(112px * 2);
+    left: calc(112px * 4);
+}
+
+
+
+.game-wrapper {
+    position: absolute;
+    left: 88px;
+    right: 88px;
+    bottom: 22px;
+    top: 55px;
+}
+
+.game-wrapper .game-scene {
     width: 100%;
     height: 100%;
     position: relative;
-}
-
-#game-blog .game-wrapper .game-scene .player-block {
-    width: 162px;
-    height: 79px;
-    background-image: url(../image/game-player-1.svg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: center;
-    position: absolute;
-    left: 50%;
-    bottom: 0px;
-    z-index: 100;
-}
-
-#game-blog .game-wrapper .game-scene .player-block .player-cart {
-    width: 65%;
-    height: 5px;
-    margin: 0px auto;
-    margin-top: 15px;
-}
-
-#game-blog .game-wrapper .game-scene .enemy-block {
-    position: absolute;
-    transition: opacity 1s;
-    opacity: 0;
-}
-
-#game-blog .game-wrapper .game-scene .enemy-1 {
-    width: 43.5px;
-    height: 43.5px;
-    background-image: url(../image/game-enemy-1.svg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: center;
-}
-
-#game-blog .game-wrapper .game-scene .enemy-2 {
-    width: 25.5px;
-    height: 25.5px;
-    background-image: url(../image/game-enemy-2.svg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: center;
-}
-
-#game-blog .game-wrapper .game-scene .enemy-3 {
-    width: 48.88px;
-    height: 48.88px;
-    background-image: url(../image/game-enemy-3.svg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: center;
-}
-
-#game-blog .game-wrapper .game-scene .enemy-4 {
-    width: 43px;
-    height: 43px;
-    background-image: url(../image/game-enemy-4.svg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: center;
-}
-
-#game-blog .game-wrapper .game-scene .enemy-5 {
-    width: 43px;
-    height: 43px;
-    background-image: url(../image/game-enemy-5.svg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: center;
-}
-
-#game-blog .game-wrapper .game-scene .enemy-6 {
-    width: 38.5px;
-    height: 38.5px;
-    background-image: url(../image/game-enemy-6.svg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: center;
-}
-
-#game-blog .game-wrapper .game-scene .enemy-7 {
-    width: 64.9px;
-    height: 64.9px;
-    background-image: url(../image/game-enemy-7.svg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: center;
 }

@@ -1,6 +1,7 @@
 html, body, #game-blog {
     height: 100%;
     font-family: Arial, sans-serif;
+    background: #EEF3FF;
 }
 
 #game-blog {
@@ -49,31 +50,32 @@ html, body, #game-blog {
     backdrop-filter: blur(16px);
 
     border-radius: 16px;
+    position: relative;
 }
 
 .top-line .progress-bar .progress {
-    position: relative;
+    position: absolute;
     height: 100%;
     width: 0%;
     max-width: 100%;
     background: linear-gradient(41.2deg, #21A038 20.32%, #00D900 74.23%);
     border-radius: 16px;
-
-    transition: .5s
+    top: 0px;
+    right: 0px;
 }
 
-.top-line .progress-bar .progress:after {
+.top-line .progress-bar .progress:before {
     width: 40px;
-    height: 40px;
-    background-image: url(../image/ui/game-cart-human.png);
+    height: 43px;
+    background-image: url(../image/ui/game-clock-icon.svg);
     background-repeat: no-repeat;
     background-position: center;
     display: block;
     position: absolute;
-    background-size: 40px 40px;
-    right: -20px;
+    background-size: 40px 43px;
+    left: -20px;
     content: "";
-    top: -12px;
+    top: -13px;
 
 }
 
@@ -104,55 +106,4 @@ html, body, #game-blog {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 19px 19px;
-}
-
-.next-button .button {
-    background-image: url(../image/ui/game-button-right.svg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: 21px 35px;
-}
-
-.prev-button .button {
-    background-image: url(../image/ui/game-button-left.svg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: 21px 35px;
-}
-
-.bottom-line {
-    position: absolute;
-    left: 24px;
-    right: 24px;
-    bottom: 10px;
-    height: 64px
-}
-
-.bottom-line > div:first-child {
-    float: left;
-}
-
-.bottom-line > div:last-child {
-    float: right;
-}
-
-.bottom-line:after {
-    clear: both;
-    display: block;
-    content: "";
-    width: 100%;
-    height: 0px;
-}
-
-.score-line {
-    position: absolute;
-    bottom: 91px;
-    right: 23px;
-    font-size: 19px;
-    font-weight: bold;
-    color: #21A038;
-}
-
-.score-line .max {
-    font-size: 15px;
 }
