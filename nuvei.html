@@ -1,0 +1,36 @@
+<html>
+  <head>
+    <script src="https://cdn.safecharge.com/safecharge_resources/v1/websdk/safecharge.js"></script>
+  </head>
+  <body>
+    <form action="/charge" method="post" id="payment-form" style="max-width: 350px">
+      <div class="form-row">
+        <label for="card-field-placeholder">
+         Credit or debit card
+        </label>
+        <div id="card-field-placeholder" class="some initial css-classes">
+          <!-- SFC Card widget is inserted here. -->
+        </div>
+        <!-- Used to display form errors. -->
+        <div id="scard-errors" role="alert"></div>
+      </div>
+    </form>
+    <button onclick="main();">Submit Payment</button>
+	<script>
+	var sfc = SafeCharge({
+	   env: 'int',
+	   merchantId: '5744544468085818220', 
+	   merchantSiteId : '205186',
+	});
+	var ScFields = sfc.fields({
+	  fonts: [
+		{ cssUrl: 'https://fonts.googleapis.com/css?family=Source+Code+Pro' }, // include your custom fonts
+		]
+	})
+    var scard = ScFields.create('card', {
+		  style: {}
+	});
+	scard.attach(document.getElementById('card-field-placeholder'));
+	</script>
+  </body>
+</html>
